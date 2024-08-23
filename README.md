@@ -1,2 +1,2 @@
 # hybrids-basic
-hybrids framework basic boilerplate
+hybrids javascript framework basic boilerplate
